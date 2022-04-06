@@ -1,0 +1,24 @@
+﻿{
+  "Contacts": [
+    {
+      "FirstName": "Ankit",
+      "LastName": "Ghosh",
+      "id": 1
+    },
+    {
+      "FirstName": "Viru",
+      "LastName": "Yadav",
+      "id": 2
+    },
+    {
+      "FirstName": "Milan",
+      "LastName": "Yadav",
+      "Address": "Balia",
+      "City": "Patna",
+      "State": "Bihar",
+      "Zip": 840022,
+      "PhoneNumber": 6200974747,
+      "id": 3
+    }
+  ]
+}
